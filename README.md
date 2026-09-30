@@ -24,20 +24,16 @@
 
 ## 🛠 Tech Stack
 
-### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Frontend
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -72,20 +68,6 @@
 🏆 NHN Academy 성과발표회 **우수상**
 
 🔗 [4VIDIA Organization](https://github.com/nhnacademy-be12-4vidia)
-
----
-
-### 🎙 LeadMe
-**음성 기반 유창성 장애 언어치료 애플리케이션**
-
-`React Native · Android Native`
-
-- 5인 산학 프로젝트의 팀장으로 서비스 기획과 프론트엔드 개발을 담당했습니다.
-- TTS · 음성 녹음 · 즐겨찾기 등 주요 모바일 기능과 서버 API 연동을 구현했습니다.
-- React Native의 실시간 오디오 처리 한계를 해결하기 위해 Android Native Module을 연결했습니다.
-- `AudioRecord → 약 200ms 지연 → AudioTrack` 구조로 실시간 지연 음성 출력 기능을 구현했습니다.
-
-🔗 [LeadMe Organization](https://github.com/LeadMe-app)
 
 ---
 
