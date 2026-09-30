@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 안녕하세요, 백엔드 개발자 고나영입니다.
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### 문제의 원인을 파고들고, 변화에 강한 코드를 설계합니다.
 
